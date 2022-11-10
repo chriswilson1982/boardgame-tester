@@ -35,4 +35,4 @@ Max: 381
 Played the game 100000 times in 9.79 seconds.
 ```
 
-![Example histogram showing the number of turns taken per game.](example_histogram.jpg)
+![Example histogram showing the number of turns taken per game.](example_histogram.png)

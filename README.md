@@ -13,3 +13,18 @@ Set the customisable parameters based on the game you want to simulate.
 
 The settings provided simulate this board 100,000 times.
 
+The script prints summary statistics and a histogram.
+```
+Games: 100000
+
+Stats for number of moves
+
+Mean: 46.31
+SD: 33.1
+Median: 36.0
+Mode: 21
+Min: 6
+Max: 381
+
+Played the game 100000 times in 0:00:09.797987 seconds.
+```

@@ -13,6 +13,8 @@ Set the customisable parameters based on the game you want to simulate.
 
 The settings provided simulate this board 100,000 times.
 
+![Example Snakes and Ladders Board](example_board.jpg)
+
 The script prints summary statistics and a histogram.
 ```
 Games: 100000

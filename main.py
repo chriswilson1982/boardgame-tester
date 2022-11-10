@@ -35,10 +35,7 @@ ladders = {
 
 from random import randint
 from matplotlib import pyplot as plt
-from statistics import mean
-from statistics import median
-from statistics import mode
-from statistics import stdev
+from statistics import mean, median, mode, stdev
 from datetime import datetime
 
 start_time = datetime.now()

@@ -17,7 +17,7 @@ Set the customisable parameters based on the game you want to simulate.
 
 The default parameters simulate this Snakes and Ladders board. 
 
-![Example Snakes and Ladders Board](example_board.jpg)
+![Example Snakes and Ladders board](example_board.jpg)
 
 The script prints summary statistics and a histogram.
 ```
@@ -34,3 +34,5 @@ Max: 381
 
 Played the game 100000 times in 9.79 seconds.
 ```
+
+![Example histogram showing the number of turns taken per game.](example_histogram.jpg)

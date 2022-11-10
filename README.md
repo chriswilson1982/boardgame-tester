@@ -2,6 +2,8 @@
 
 This script simulates “snakes and ladders” style games in an abstract way to generate statistics about the number of turns taken to finish.
 
+***
+
 ## Parameters
 
 Set the customisable parameters based on the game you want to simulate.
@@ -11,7 +13,9 @@ Set the customisable parameters based on the game you want to simulate.
 - *Finish*: The square players finish on. 
 - *Ladders*: This dictionary represents the snakes or ladders on the game (or any abstract equivalent). Each integer key-value pair represents moving from one square to another in the format `{ from : to }`.
 
-The settings provided simulate this board 100,000 times.
+***
+
+The default parameters simulate this Snakes and Ladders board. 
 
 ![Example Snakes and Ladders Board](example_board.jpg)
 
@@ -28,5 +32,5 @@ Mode: 21
 Min: 6
 Max: 381
 
-Played the game 100000 times in 0:00:09.797987 seconds.
+Played the game 100000 times in 9.79 seconds.
 ```

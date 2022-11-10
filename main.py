@@ -78,4 +78,4 @@ plt.show()
 
 finish_time = datetime.now()
 
-print(f"Played the game {runs} times in {finish_time - start_time} seconds.")
+print(f"Played the game {runs} times in {round((finish_time - start_time).total_seconds(), 2)} seconds.")
